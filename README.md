@@ -1,6 +1,6 @@
 # go_depencency_example
 
-This is experimental Go dependency experimental repo
+This is Go dependency experimental repo
 
 This repo helps us to understand passing which were hard 😉😉
 
