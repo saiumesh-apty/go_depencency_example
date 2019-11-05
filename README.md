@@ -2,7 +2,7 @@
 
 This is Go dependency experimental repo
 
-This repo helps us to understand passing which were hard 😉😉
+This repo helps us to understand DI and it's testing which were hard 😉😉
 
 couple of helpful libraries as follows
 
